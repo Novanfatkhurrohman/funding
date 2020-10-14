@@ -7,13 +7,6 @@
   import Footer from "../components/Footer.svelte";
 </script>
 
-<style>
-  h1 {
-    font-size: 3em;
-    color: brown;
-  }
-</style>
-
 <Header />
 <Welcome />
 
