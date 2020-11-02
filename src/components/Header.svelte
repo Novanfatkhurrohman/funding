@@ -4,7 +4,7 @@
     <nav class="xs-menus">
       <div class="nav-header">
         <div class="nav-toggle" />
-        <a href="index.html" class="nav-logo">
+        <a href="/" class="nav-logo">
           <img src="/assets/images/logo.png" alt="" />
         </a>
       </div>
